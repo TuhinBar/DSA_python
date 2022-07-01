@@ -1,3 +1,5 @@
+# Can be modified into a simple version
+
 from itertools import count
 
 
