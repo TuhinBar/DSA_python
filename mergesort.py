@@ -1,3 +1,5 @@
+# Divide and Conquer
+
 from array import array
 
 # Defining the function
